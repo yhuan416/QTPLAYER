@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>player/暂停.png</file>
+        <file>player/音乐.png</file>
+        <file>player/首页.png</file>
+        <file>player/声音.png</file>
+        <file>player/箭头.png</file>
+        <file>player/关闭.png</file>
+        <file>player/顶端.png</file>
+        <file>player/电影.png</file>
+        <file>player/播放.png</file>
+    </qresource>
+</RCC>
