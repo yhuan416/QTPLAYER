@@ -26,3 +26,11 @@
 	选择指定颜色后播放器的背景会转变为指定的颜色  
 	
 [思路详解](https://yhuan416.github.io/2019/12/26/QTPLAYER/)
+
+---
+
+[我的github](https://github.com/yhuan416)
+
+---
+
+
